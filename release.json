@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "versionCode": 11,
+  "title": "RimWorld Android 1.0.1",
+  "notes": "RimWorld 安卓版更新系统正式上线。",
+  "lanzouUrl": "https://wwbtz.lanzouw.com/b01d7f8tza",
+  "lanzouPassword": "29649552447",
+  "apkUrl": "",
+  "announcement": {
+    "id": "notice-001",
+    "title": "RimWorld 手机版公告",
+    "content": "欢迎使用 RimWorld 手机版！后续版本更新、功能优化与重要通知将在这里发布。"
+  }
+}
